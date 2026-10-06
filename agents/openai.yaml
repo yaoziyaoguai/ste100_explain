@@ -1,0 +1,4 @@
+interface:
+  display_name: "ste100_explain"
+  short_description: "用 STE 风格讲清复杂主题，按需制作图解、交互网页和旁白视频"
+  default_prompt: "用 $ste100_explain 讲清当前主题，按 ASD-STE100 启发式文风解释，并制作最有助于理解和检查结论的文字、图解、交互网页或视频。"
